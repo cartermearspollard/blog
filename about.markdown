@@ -4,15 +4,29 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Mears! I'm currently a graduate student in Virginia Tech's English
+Department. My research focuses primarily on Southern literature and Digital Humanities.
+In my free time, you'll find me desperately trying to learn more Python to keep up with
+my research interests, listening to the news, reading about Behavioral Economics, or
+going on hikes. In case it isn't obvious, I like to keep busy. There's so much to learn
+and so little time to learn it all. So, here I am, doing my best to learn everything
+possible. This website is a snippet of what I'm currently interested in.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My Current Media Consumption Includes:
+---
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Books
+---
+*	_Thinking, Fast and Slow_ by Daniel Kahneman
+*	_The Chaos Machine_ by Max Fisher
+*	_Everybody Lies_ by Seth Stephens-Davidowitz
 
-
-[jekyll-organization]: https://github.com/jekyll
+## Podcasts
+---
+*	Freakonomics
+*	Hard Fork
+*	Up First (every morning)
+*	Amicus
+*	Motley Fool Money
+*	People I (Mostly) Admire
+*	Against the Rules with Michael Lewis
