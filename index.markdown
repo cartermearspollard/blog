@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![cute picture of me](/_site/assets/front_matter.jpg)
+![<# alt text #>](_site/assets/front_matter.jpg "front_matter.jpg")
 
 Hi, I'm Mears! I'm a graduate student, hiker, and many more things. 
 This is a page for my research, as well as things I'm currently enjoying 
